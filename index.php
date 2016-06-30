@@ -1,20 +1,16 @@
 <?php
 
-putenv("LANG=" . 'en_CU');
-setlocale(LC_ALL, 'en_CU');
+$lang = $_GET['lang'];
+
+echo 'The language was : ' . $lang;
+
+putenv("LANG=" . $lang);
+setlocale(LC_ALL, $lang);
+bindtextdomain($lang, dirname(__FILE__) . '/locale');
+textdomain($lang);
+bind_textdomain_codeset($lang, 'UTF-8');
 
 
-bindtextdomain('en_CU', dirname(__FILE__).'/locale');
-bind_textdomain_codeset('en_CU', 'UTF-8');
-textdomain('en_CU');
+$str = gettext('您已使用过该名字~');
 
-$str = gettext('你好， 世界');
-$password = gettext('密码错误');
-
-
-print <<<HTML
-<a href="#">{$str}</a>
-
-<h1>{$password}</h1>
-HTML;
-?>
+echo "<h2>{$str}</h2>";

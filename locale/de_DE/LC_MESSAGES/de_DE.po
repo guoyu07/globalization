@@ -16,1678 +16,1684 @@ msgstr ""
 "X-Poedit-FindPath-0: d:\\controllers\n"
 
 msgid "该项目名已存在或者其他错误，请重试~"
-msgstr "この項目名はすでに存在してあるいはその他のエラーがあるので、もう一度試みてください"
+msgstr "Projektname schon existiert oder andere Fehler entstehen, bitte versuchen nochmal"
 
 msgid "您已使用过该名字~"
-msgstr "この名前をすでに使ったことがある"
+msgstr "Sie haben diesen Namen schon benutzt"
 
 msgid "您没有该权限~"
-msgstr "この権限がない"
+msgstr "Sie haben kein Befugnis"
 
 msgid "该名字已被使用~"
-msgstr "この名前はすでに使われない"
+msgstr "Dieser Name wird schon benutzt"
 
 msgid "私有设备只能自己查看~"
-msgstr "私有デバイスは自分しか調べれない"
+msgstr "Privates Gerät darf nur vom Eigner sehen"
 
 msgid "接口请求错误"
-msgstr "インターフェースリクエストエラー"
+msgstr "Schnittstellenfehler"
 
 msgid "删除失败"
-msgstr "削除失敗"
+msgstr "Löschen fehlgeschlagen"
 
 msgid "操作成功"
-msgstr "操作成功"
+msgstr "Operation erfolgreich"
 
 msgid "操作失败"
-msgstr "操作失敗"
+msgstr "Operation fehlgeschlagen"
 
 msgid "参数不合法"
-msgstr "パラメータは有効ではない"
+msgstr "Parameter ungültig"
 
 msgid "没有可用的设备"
-msgstr "利用可能なデバイスはない"
+msgstr "kein verwendbares Gerät"
 
 msgid "添加成功"
-msgstr "追加完了"
+msgstr "Hinzufügung erfolgreich"
 
 msgid "参数错误"
-msgstr "パラメータエラー"
+msgstr "Parameterfehler"
 
 msgid "找不到记录"
-msgstr "記録は探せない"
+msgstr "Kein Rekord gefunden"
 
 msgid "应用信息有误"
-msgstr "アプリケーション情報は正しくない"
+msgstr "Anwendungsinformation ist falsch"
 
 msgid "操作失败，请稍后再试！"
-msgstr "操作失敗なので、後でもう一度起動すること"
+msgstr "Operation fehlgeschlagen, bitte versuchen später"
 
 msgid "获取设备信息失败"
-msgstr "デバイス情報を取得できない"
+msgstr "Erfassung der Geräteinformation fehlgeschlagen"
 
 msgid "设备不在线"
-msgstr "デバイスはオンラインではない"
+msgstr "Gerät offline"
 
 msgid "删除成功"
-msgstr "削除成功"
+msgstr "Löschen erfolgreich"
 
 msgid "保存成功"
-msgstr "セーブ成功"
+msgstr "Speichern erfolgreich"
 
 msgid "暂无数据"
-msgstr "データはない"
+msgstr "Keine Daten"
 
 msgid "获取数据失败！"
-msgstr "データを取得できない"
+msgstr "Datenerfassung fehlgeschlagen"
 
 msgid "您要查看的内容已被移除"
-msgstr "コンテンツは許容されない"
+msgstr "Dieser Inhalt ist gelöscht"
 
 msgid "网站配置错误"
-msgstr "ウェブサイト設定エラー"
+msgstr "Einstellungsfehler der Webseite"
 
 msgid "获取评论内容失败"
-msgstr "コンテンツを取得できない"
+msgstr "Erfassung der Kommentare fehlgeschlagen"
 
 msgid "您还未登录"
-msgstr "ログインしてください"
+msgstr "Bitte anmelden"
 
 msgid "发表评论失败"
-msgstr "コメントの発表に失敗した"
+msgstr "Kommentar fehlgeschlagen"
 
 msgid "评论成功"
-msgstr "コメントの発表に成功した"
+msgstr "Kommentar erfolgreich"
 
 msgid "请指定设备个数"
-msgstr "デバイスの個数を指定してください"
+msgstr "Bitte die Anzahl der Geräte einstellen"
 
 msgid "最多只能批量添加1000个设备"
-msgstr "最多でデバイス1000個大量添加できる"
+msgstr "Maximal 1.000 Geräte per Batch hinzufügen"
 
 msgid "设备名称长度超过10个字符的限制"
-msgstr "デバイス名の長さは10キャラクターを超えない"
+msgstr "Länge des Gerätenamens über die Beschränkung von 10 Schriftzeichen"
 
 msgid "请填写设备信息"
-msgstr "デバイス情報を書き込んでください"
+msgstr "Bitte die Geräteinformation eingeben"
 
 msgid "未找到上传的文件内容"
-msgstr "アップロードするファイルが見つからない"
+msgstr "Hochgeladenes Dokument nicht gefunden"
 
 msgid "生成设备信息失败"
-msgstr "デバイス情報の生成に失敗した"
+msgstr "Erzeugung der Geräteinformation fehlgeschlagen"
 
 msgid "保存操作结果失败"
-msgstr "操作結果の保存に失敗した"
+msgstr "Ergebnis von Speichern fehlgeschlagen"
 
 msgid "单位名称不能超过10个"
-msgstr "単位名称は10キャラクターを超えない"
+msgstr "Name der Einheit darf nicht über 10 Schriftzeichen sein"
 
 msgid "单位符号名称不能超过10个"
-msgstr "部門符号名称が10キャラクターを超えない"
+msgstr "Symbol der Einheit darf nicht über 10 Schriftzeichen sein"
 
 msgid "本次暂未发现新数据..."
-msgstr "今回は新しいデータを発見していない..."
+msgstr "Diesmal keine neue Daten gefunden"
 
 msgid "本次暂未发现新数据."
-msgstr "今回新しいデータを発見していない."
+msgstr "Diesmal keine neue Daten gefunden"
 
 msgid "本次暂未发现新数据.."
-msgstr "今回新しいデータを発見していない.."
+msgstr "Diesmal keine neue Daten gefunden"
 
 msgid "开始时间必须小于结束时间"
-msgstr "開始時間は必ず終了時間より小さいこと"
+msgstr "Anfangszeit muss früher als Endzeit"
 
 msgid "开始时间必须小于当前时间"
-msgstr "開始時間が必ず現在時間より小さいこと"
+msgstr "Anfangszeit muss früher als Jetztzeit"
 
 msgid "结束时间必须小于当前时间"
-msgstr "終了時間は必ず現在時間より小さくいこと"
+msgstr "Endzeit muss früher als Jetztzeit"
 
 msgid "文件上传错误~"
-msgstr "ファイルアップエラー"
+msgstr "Fehler beim Dokumentehochladen"
 
 msgid "失败"
-msgstr "失敗"
+msgstr "Fehlgeschlagen"
 
 msgid "设备创建失败, "
-msgstr "デバイスの創建に失敗した"
+msgstr "Erstellung des Gerätes fehlgeschlagen"
 
 msgid "失败，请确认设备是否在线~"
-msgstr "失敗したら、デバイスがオンラインでかどうかを確認してください"
+msgstr "Fehlgeschlagen, bitte sichern dass das Gerät online ist"
 
 msgid "参数不完整"
-msgstr "パラメーターが完全ではない"
+msgstr "Parameter unvollständig"
 
 msgid "您已收藏"
-msgstr "あなたは既に収蔵した"
+msgstr "Schon favorisiert"
 
 msgid "登录失败"
-msgstr "ログインに失敗した"
+msgstr "Anmeldung fehlgeschlagen"
 
 msgid "自动登录错误"
-msgstr "自動登録エラー"
+msgstr "Fehler beim automatischen Anmelden"
 
 msgid "用户名和邮箱至少填一项"
-msgstr "ハンドル名あるいはメールボックスと少なくとも一つ書き込んでください"
+msgstr "Mindestens ein Item von Benutzername oder Email muss ausgefüllt werden"
 
 msgid "邮箱格式错误!"
-msgstr "メールフォーマットエラー!"
+msgstr "Email-Format falsch"
 
 msgid "该用户还未注册~"
-msgstr "ユーザーはまだ新規登録していない"
+msgstr "Benutzer noch nicht registriert"
 
 msgid "用户名或密码错误~"
-msgstr "ユーザ名またはパスワードエラー"
+msgstr "Benutzername oder Kennwort falsch"
 
 msgid "您已赞过"
-msgstr "すでに讃した"
+msgstr "Schon “Gefällt“"
 
 msgid "获取点赞信息失败"
-msgstr "讃した情報の獲得に失败した"
+msgstr "Erfassung der Information über “Gefällt mir” fehlgeschlagen"
 
 msgid "系统默认项目不能删除~"
-msgstr "デフォルトプロジェクトは削除できない"
+msgstr "Standardprojekt nicht löschbar"
 
 msgid "数据库错误，删除失败~"
-msgstr "データベースエラー、削除失敗"
+msgstr "Datenbankfehler, Löschen fehlgeschlagen"
 
 msgid "该邮箱已注册~"
-msgstr "このメールボックスはすでに新規登録した"
+msgstr "Dieses Email wird schon registriert"
 
 msgid "该邮箱还未注册~"
-msgstr "このメールボックスはまだ新規登録していない"
+msgstr "Dieses Email wird noch nicht registriert"
 
 msgid "点击过于频繁，请稍稍休息一段时间吧~"
-msgstr "クリックしすぎで、少し休憩してください"
+msgstr "Klicken zu häufig, bitte eine Pause machen"
 
 msgid "中移物联网-设备云密码找回"
-msgstr "中国移動モノのインターネット―パスワード再取得"
+msgstr "Zurücksetzung des Kennwortes von Internet der Dinge von China Mobile-Geräte Cloud"
 
 msgid "中移物联网-设备云注册"
-msgstr "中国移動モノのインターネット新規登録"
+msgstr "Internet der Dinge von China Mobile-Geräte Cloud registrieren"
 
 msgid "发送完成"
-msgstr "送信完了"
+msgstr "Sendung erfolgreich"
 
 msgid "邮箱验证过期"
-msgstr "メールボックスの確認有効期限は切れていない"
+msgstr "Verifizierung des Emails überfällig"
 
 msgid "验证成功"
-msgstr "確認完了"
+msgstr "Verifizierung erfolgreich"
 
 msgid "邮箱验证码失效~"
-msgstr "メールボックスの確認コード有効期限は切れていない"
+msgstr "Verifizierungscode des Emails ungültig"
 
 msgid "重置失败"
-msgstr "リセット失敗"
+msgstr "Zurücksetzung fehlgeschlagen"
 
 msgid "表单信息需填写完整~"
-msgstr "完全にフォーム情報を書き込まなければならない"
+msgstr "Informationen des Formblattes müssen völlig ausgefüllt"
 
 msgid "邮箱验证码失效，注册失败~"
-msgstr "メールボックスの確認コード有効期限は切れていない、新規登録失敗"
+msgstr "Verifizierungscode des Emails ungültig, Registrierung fehlgeschlagen"
 
 msgid "注册成功"
-msgstr "新規登録成功"
+msgstr "Registrierung erfolgreich"
 
 msgid "数据库注册失败"
-msgstr "データベース新規登録失敗"
+msgstr "Registrierung der Datenbank fehlgeschlagen"
 
 msgid "注册失败"
-msgstr "新規登録失敗"
+msgstr "Registrierung fehlgeschlagen"
 
 msgid "短信验证码错误"
-msgstr "ショートメッセージ確認コードエラー"
+msgstr "SMS Verifizierungscode falsch"
 
 msgid "手机号码错误"
-msgstr "電話番号エラー"
+msgstr "Handynummer falsch"
 
 msgid "该手机已注册，您可以直接登录~"
-msgstr "この電話番号はすでに登録した、直接に登録していい"
+msgstr "Diese Handy ist schon registriert, Sie können direkt anmelden"
 
 msgid "短时间内请勿重复提交"
-msgstr "短い時間で繰り返し提出しないでください"
+msgstr "Bitte in kurzer Zeit nicht zu oft einreichen"
 
 msgid "请输入验证码后提交"
-msgstr "確認コードを入力してから提出してください"
+msgstr "Bitte Verifizierungscode eingeben und einreichen"
 
 msgid "验证码错误"
-msgstr "確認コードエラー"
+msgstr "Verifizierungscode falsch"
 
 msgid "该手机未注册"
-msgstr "この電話番号が登録していない"
+msgstr "Diese Handy wird noch nicht registriert"
 
 msgid "(UFO)"
 msgstr "(UFO)"
 
 msgid "操作失败，请重试~"
-msgstr "操作失敗、再び試みてください"
+msgstr "Operation fehlgeschlagen, bitte versuchen nochmal"
 
 msgid "不能小于一个设备"
-msgstr "１つのデバイスより少なくない"
+msgstr "Darf nicht weniger als ein Gerät"
 
 msgid "体验设备出了点意外~"
-msgstr "体験デバイスが意外事故が起こした"
+msgstr "Zufall beim Gerät für Erfahrende "
 
 msgid "手机端结束了会话~"
-msgstr "携帯端末の会話は終った"
+msgstr "Handyseite beendet die Konversation"
 
 msgid "Invalid Parameters"
-msgstr "パラメータ無効"
+msgstr "Ungültige Parameters"
 
 msgid "data error"
-msgstr "データエラー"
+msgstr "Datenfehler"
 
 msgid "体验用设备"
-msgstr "体験用デバイス"
+msgstr "Ger?te für Erfahrende"
 
 msgid "该设备为体验用设备，由程序自动创建"
-msgstr "このデバイスは体験用デバイスで、プログラムで自動的に創建したのである"
+msgstr "Das Gerät ist für Erfahrende, wird automatisch vom Programm einrichtet"
 
 msgid "请在体验页扫码访问~"
-msgstr "体験ページでQRコードをスキャンして訪問してください"
+msgstr "Bitte die QR Code auf der Seite scannen"
 
 msgid "不是有效电话号码"
-msgstr "無効番号"
+msgstr "Ungültige Telefonnummer"
 
 msgid "看到该提示说明这不是一个正常操作~"
-msgstr "このメッセージを見たら、正常動作ではないと示した"
+msgstr "Diese Meldung bedeutet eine abnormale Operation"
 
 msgid "成功"
-msgstr "成功"
+msgstr "Erfolgreich"
 
 msgid "数据库错误~"
-msgstr "データベースエラー"
+msgstr "Datenbankfehler"
 
 msgid "联系我们"
-msgstr "お問い合わせ"
+msgstr "Kontakt"
 
 msgid "我们的联系方式"
-msgstr "お問い合わせ"
+msgstr "Kontakt"
 
 msgid "电话"
-msgstr "電話番号"
+msgstr "Telefonnummer"
 
 msgid "邮件"
-msgstr "Eメール"
+msgstr "Email"
 
 msgid "地址"
-msgstr "住所"
+msgstr "Adresse"
 
 msgid "重庆市南岸区玉马路8号"
-msgstr "重慶市南岸区玉馬路8番"
+msgstr "Yumalu 8, Nanan Bezirk, Chongqing Stadt"
 
 msgid "您的联系方式和需求"
-msgstr "ご連絡方法と需要"
+msgstr "Ihre Kontaktweise und Bedarf"
 
 msgid "联系人"
-msgstr "担当者"
+msgstr "Ansprechspartner"
 
 msgid "联系电话"
-msgstr "連絡電話"
+msgstr "Telefonnummer"
 
 msgid "留言"
-msgstr "メッセージ"
+msgstr "Nachricht"
 
 msgid "提交信息"
-msgstr "情報提出"
+msgstr "Einreichen"
 
 msgid "关于我们"
-msgstr "会社概要"
+msgstr "Über uns"
 
 msgid "从连接开始-中国移动物联网开放平台"
-msgstr "コネクティングからスタート―中国移動モノのインターネットオープンプラットフォーム"
+msgstr "Von der Verbindung starten- Offene Plattform für Internet der Dinge von China Mobile"
 
 msgid "中国移动物联网开放平台是中移物联网有限公司基于物联网技术和产业特点打造的开放平台和生态环境，适配各种网络环境和协议类型，支持各类传感器和智能硬件的快速接入和大数据服务，提供丰富的API和应用模板以支持各类行业应用和智能硬件的开发，能够有效降低物联网应用开发和部署成本，满足物联网领域设备连接、协议适配、数据存储、数据安全、大数据分析等平台级服务需求。"
-msgstr "中国移動モノのインターネットオープンプラットフォームは中国移動モノのインターネット有限会社が物のネットワーク化技術と産業の特徴に基づいて作り上げたオープンプラットフォームと生態環境であり、各種のネットワーク環境とプロトコルタイプに適合し、各類のセンサーと知能ハードウエアの高速アクセス及び大データバンクサービスを支持し、豊富なAPIとアプリケーションテンプレートを提供して各類業界のアプリケーションと知能ハードウエアの開発を支持し、効果的にモノのインターネットアプリケーションの開発と配置コストを下げて、モノのインターネット領域のデバイスコネクション、プロトコル適応、データメモリー、データ保安、大データ分析などプラットフォーム級のサービス需要に満足させることができる。"
+msgstr "Die Offene Plattform für Internet der Dinge von China Mobile basiert auf die Technik des Internets der Dinge und Besonderheiten der Industrie, ist eine von Internet der Dinge von China Mobile GmbH. gegründete öffentliche Plattform und ökologische Umwelt geeignet für verschiedene Internetumwelt und Protokolle, unterstützt rapide Verbindung von  unterschiedlichen Sensoren und intelligenten Hardwaren sowie Dienstleistung von Big Data, bietet umfangreiche API und Anwendungsformen zur Entwicklung von Anwendungen und intelligenten Hardwaren in allen Industriebranchen an, reduziert die Kosten für Anwendungsentwicklung und Planung des Internets der Dinge effektiv, erfüllt die Anforderungen über Dienstleistungen auf der Plattform wie Geräteverbindung, Anpassung des Protokolls, Datenspeicherung, Datensicherheit und Analyse von Big Data."
 
 msgid "中国移动物联网开放平台始终秉承开放合作的态度，为智能硬件创客和创业企业提供硬件社区服务，为中小企业客户物联网应用需求提供数据展现、数据分析和应用生成服务，为重点行业领域/大客户提供行业PaaS服务和定制化开发服务。"
-msgstr "中国移動モノのインターネットオープンプラットフォームははずっと開放協力な態度で、知能ハードウエア製作者と創業企業にハードウエアコミュニティサービスを提供し、中小企業ユーザーのモノのインターネットのアプリケーション需要に、データ展示、データ分析とアプリケーション形成サービスを提供し、重点業界の領域/キー アカウントに業界PaaSサービスと定制化開発サービスを提供する。"
+msgstr "Die Offene Plattform für Internet der Dinge von China Mobile hält sich die ganze Zeit an die Gesinnung von Offenheit und Zusammenarbeit fest, bietet Makern und Unternehmen Dienstleistungen zur Entwicklung der intelligenten Hardware an, liefert mittleren und kleinen Unternehmen benötigte Dienstleistungen von Datendarstellung, Datenanalyse und Anwendungentwicklung, leistet wichtigen Industriebrachen und Großkunden PaaS und spezifische Dienstleistungen."
 
 msgid "特色服务"
-msgstr "特色サービス"
+msgstr "Spezifische Dienstleistung"
 
 msgid "中移物联网开放平台，从链接开始"
-msgstr "中国移動モノのインターネットオープンプラットフォーム、コネクティングからスタート"
+msgstr "Offene Plattform für Internet der Dinge von China Mobile startet von der Verbindung"
 
 msgid "云平台"
-msgstr "クラウドプラットフォーム"
+msgstr "Cloud-Plattform"
 
 msgid "无处不在，自由拓展"
-msgstr "どこにもあります、自由に開拓する"
+msgstr "Überall, frei zu erweitern"
 
 msgid "轻应用"
-msgstr "ライトアプリケーション"
+msgstr "Leichtgewichtige Anwendung"
 
 msgid "快速生成，变现创意"
-msgstr "急速に生成、アイディアを実現する"
+msgstr "Rapide Generierung, Realisierung der Kreativität"
 
 msgid "大数据"
-msgstr "ビッグデータ"
+msgstr "Big Data"
 
 msgid "海量数据，洞悉未来"
-msgstr "マスデータ、未来を深く知り抜く"
+msgstr "Massive Daten, Zukunftsorientierung"
 
 msgid "具体功能"
-msgstr "具体機能"
+msgstr "Konkrete Funktionen"
 
 msgid "海量链接"
-msgstr "マスリンク"
+msgstr "Umfangreiche Links"
 
 msgid "支持多类型标准API和丰富的终端协议，满足海量设备的高并发快速接入"
-msgstr "多タイプの標準APIと豊富なターミナルプロトコルを支持し、マスデバイスのインフォメーションサービスに満足させる"
+msgstr "Unterstützung von verschiedenen standarden API und reichliche Terminal-Protokolle, realisiert gleichzeitig rapide Verbindung von umfangreichen Geräten"
 
 msgid "数据存储"
-msgstr "データ保存"
+msgstr "Daten speichern"
 
 msgid "分布式结构、完备的数据接口和多重保障机制实现高效的资源管理和安全的数据存储"
-msgstr "分布式構造、そろっているデータインタフェースと多重保障機制がで高効の資源管理と安全なデータ保存を実現する"
+msgstr "Verteilte Struktur, vollständige Datenschnittstellen und vielfache Sicherungssysteme verwirklichen effektive Ressorcenverwaltung und sichere Datenspeicherung"
 
 msgid "在线管理"
-msgstr "オンライン管理"
+msgstr "Online-Verwaltung"
 
 msgid "在线的设备监控管理、在线调试、数据统计分析和实时控制功能"
-msgstr "オンラインデバイスの監視管理、オンラインディバッグ、データの統計解析とリアルタイム制御機能"
+msgstr "Online-Geräteüberwachung, Online-Inbetriebnahme, Datenstatistik und Analyse und Echtzeit-Kontrolle"
 
 msgid "消息分发"
-msgstr "メッセージの振分け"
+msgstr "Nachrichten verteilen"
 
 msgid "通过消息转发、短彩信推送、信息推送等方式快速通知应用域，建立信息通道"
-msgstr "メッセージのフォワーディング、メールデコメールのプッシュ、情報プッシュなどの方法で急速にアプリケーション域を知らせて、情報チャンネル“を創立する"
+msgstr "Anwendungsdomänen durch Weiterleitung der Nachrichten, MMS, SNS und Push-Benachrichtung und andere Methoden schnell informieren, und die Informationskanäle errichten"
 
 msgid "原子服务"
-msgstr "アトミックサービス"
+msgstr "Atomare Dienstleistung"
 
 msgid "汇聚中国移动短彩信、位置、IaaS资源等优质原子服务，给应用开发插上翅膀"
-msgstr "中国移動のメールデコメール、位置、IaaS資源などの優良アトミックサービスを集めて、アプリケーションの開発を助ける"
+msgstr "Hochwertige atomare Dienstleistungen von SNS, MMS, Position, IaaS usw. von China Mobile betreiben bessere Anwendungsentwicklung "
 
 msgid "事件触发"
-msgstr "事件トリガ"
+msgstr "Ereignis auslösen"
 
 msgid "自定义事件触发条件，云端实现事件级别数据处理，减轻业务平台处理压力"
-msgstr "自己定義事件トリガ条件、クラウド実現事件レベルデータ処理、業務プラットフォーム処理圧力の軽減"
+msgstr "Bedingung der Auslösung von benutzerdefinierter Ereignis realisiert Datenbearbeitung nach Ergeignisstufe in Cloud, reduziert den Druck der Bearbeitung auf der Geschäftsplattform"
 
 msgid "合作企业"
-msgstr "パートナー企業"
+msgstr "Partnerunternehmen"
 
 msgid "让我们了解您的需求"
-msgstr "何かご入り用でしたらお知らせ下さい"
+msgstr "Lassen uns Ihren Bedarf wissen"
 
 msgid "账号设置"
-msgstr "アカウント設置"
+msgstr "Kontoeinstellung"
 
 msgid "个人账号设置"
-msgstr "個人アカウント設置"
+msgstr "Privates Konto einstellen"
 
 msgid "登录账号"
-msgstr "利用者ID"
+msgstr "Konto"
 
 msgid "修改密码"
-msgstr "パスワード変更"
+msgstr "Kennwort ändern"
 
 msgid "头像"
-msgstr "アバター"
+msgstr "Benutzerbild"
 
 msgid "修改头像"
-msgstr "アバター変更"
+msgstr "Benutzerbild ändern"
 
 msgid "昵称"
-msgstr "ニックネーム"
+msgstr "Nickname"
 
 msgid "最多10个字符"
-msgstr "10キャラクターまで"
+msgstr "Maximal 10 Schriftzeichen"
 
 msgid "个人简介"
-msgstr "サマリ"
+msgstr "Kurzvorstellung"
 
 msgid "请不要超过50个字"
-msgstr "50字を上回らないでください"
+msgstr "Bitte nicht über 50 Schriftzeichen"
 
 msgid "企业名称"
-msgstr "企業名称"
+msgstr "Unternehmensname"
 
 msgid "联系邮箱"
-msgstr "Eメール"
+msgstr "Email"
 
 msgid "企业联系人"
-msgstr "企業担当者"
+msgstr "Ansprechspartner"
 
 msgid "企业简介"
-msgstr "企業概況"
+msgstr "Kurzvorstellung des Unternehmens"
 
 msgid "登录"
-msgstr "ログイン"
+msgstr "Anmelden"
 
 msgid "欢迎登录"
-msgstr "ようこそ"
+msgstr "Herzlich Willkommen"
 
 msgid "没有账号"
-msgstr "アカウントがない"
+msgstr "Kein Konto"
 
 msgid "账号"
-msgstr "会員ID"
+msgstr "Konto"
 
 msgid "密码"
-msgstr "パスワード"
+msgstr "Kennwort"
 
 msgid "下次自动登录"
-msgstr "ログインしたままにする"
+msgstr "Nächstmal automatisch anmelden "
 
 msgid "贯众开放平台登录"
-msgstr "贯众オープンプラットフォーム登録"
+msgstr "KOMECT offene Plattform anmelden"
 
 msgid "忘记密码"
-msgstr "パスワードを忘れたか？"
+msgstr "Kennwort vergessen"
 
 msgid "邮箱"
-msgstr "Eメール"
+msgstr "Email"
 
 msgid "当前密码"
-msgstr "現在使用しているパスワード"
+msgstr "Aktuelles Kennwort"
 
 msgid "新密码"
-msgstr "新パスワード"
+msgstr "Neues Kennwort"
 
 msgid "不能是纯数字或者纯字母，长度为6-12位"
-msgstr "純粋な数字あるいは純粋な字母ではいられない、長さが6から12までだ"
+msgstr "Darf nicht nur Nummer oder Buchstabe sein, die Länge muss zwischen 6 und 12 Schriftzeichen"
 
 msgid "密码不能是纯数字或者纯字母，长度为6-12位"
-msgstr "パスワードは純粋な数字あるいは純粋な字母ではいられない、長さが6から12までだ"
+msgstr "Kennwort darf nicht nur Nummer oder Buchstabe sein, Länge muss zwischen 6 und 12 Schriftzeichen"
 
 msgid "确认密码"
-msgstr "パスワード確認"
+msgstr "Kennwort bestätigen"
 
 msgid "两次密码不一致"
-msgstr "二つのパスワードが一致しない"
+msgstr "Kennwort nicht identisch"
 
 msgid "请再次输入新密码"
-msgstr "もう一度新しいパスワードを入力してください"
+msgstr "Bitte neues Kennwort wieder eingeben"
 
 msgid "找回密码"
-msgstr "パスワード再取得"
+msgstr "Kennwort zurücksetzen"
 
 msgid "登录名"
-msgstr "登録名"
+msgstr "Anmeldungsname"
 
 msgid "请输入注册手机/邮箱"
-msgstr "登録の電話番号/メールボックスを入力してください"
+msgstr "Sie können die registrierte Handy oder Email eingeben"
 
 msgid "请输入右边的验证码"
-msgstr "右の確認コード入力してください"
+msgstr "Bitte Verifizierungscode auf rechter Seite eingeben"
 
 msgid "切换一张"
-msgstr "新しい確認コードを切り替える"
+msgstr "Bild aktualisieren"
 
 msgid "看不清"
-msgstr "はっきりと見えない"
+msgstr "Nicht klar"
 
 msgid "验证码"
-msgstr "確認コード"
+msgstr "Verifizierungscode"
 
 msgid "请输入手机验证码"
-msgstr "携帯電話の確認コードを入力してください"
+msgstr "Bitte Handy-Verifizierungscode eingeben"
 
 msgid "获取验证"
-msgstr "確認コード取得"
+msgstr "Verifizierungscode erhalten"
 
 msgid "提交"
-msgstr "提"
+msgstr "Einreichen"
 
 msgid "我们已将“［中移物联网开放平台］找回密码”邮件发送到你的邮箱"
-msgstr "「中国移動モノのインターネットオープンプラットフォーム」パスワード再取得メールは既にメールボックスに発送された"
+msgstr "Wir haben das Email zum Zurücksetzen des Kennwortes auf der Offenen Plattform für Internet der Dinge von China Mobile zu Ihrem Mailbox gesendet"
 
 msgid "密码设置成功！"
-msgstr "パスワード設置成功！"
+msgstr "Kennwort erfolgreich eingestellt"
 
 msgid "注册邮箱"
-msgstr "メールボックス新規登録"
+msgstr "Email registrieren"
 
 msgid "发送验证邮件"
-msgstr "確認メールを発送する"
+msgstr "Bestätigungsemail senden"
 
 msgid "设置新密码"
-msgstr "新しいパスワードを設けます"
+msgstr "Neues Passwort einstellen"
 
 msgid "用户注册"
-msgstr "新規登録"
+msgstr "Benutzer Registrieren"
 
 msgid "个人注册"
-msgstr "個人新規登録"
+msgstr "Privatperson registrieren"
 
 msgid "企业注册"
-msgstr "企業新規登録"
+msgstr "Unternehmen registrieren"
 
 msgid "设置密码"
-msgstr "パスワード設置"
+msgstr "Kennwort einstellen"
 
 msgid "请设置密码"
-msgstr "パスワードを設けてください"
+msgstr "Bitte Kennwort einstellen"
 
 msgid "请再次输入密码"
-msgstr "もう一度パスワードを入力してください"
+msgstr "Kennwort nochmal eingeben"
 
 msgid "立即注册"
-msgstr "新規登録"
+msgstr "Jetzt registrieren"
 
 msgid "企业名称不超过50字符"
-msgstr "企業の名称が50キャラクターを上回らない"
+msgstr "Unternehmensnamen darf nicht über 50 Schriftzeichen sein"
 
 msgid "联系人名称不超过30字符"
-msgstr "担当者の名称は30キャラクターを上回られない"
+msgstr "Name des Ansprechspartners darf nicht über 30 Schriftzeichen sein"
 
 msgid "企业联系电话"
-msgstr "企業の連絡先"
+msgstr "Unternehmenstelefonnummer"
 
 msgid "请输入格式正确的座机号或手机号"
-msgstr "書式の正しい固定電話番号あるいは携帯電話号を入力してください"
+msgstr "Bitte richtige Telefonnummer oder Handynummer eingeben"
 
 msgid "邮箱验证失败"
-msgstr "メールボックス確認失敗"
+msgstr "Email-Verifizierung fehlgeschlagen"
 
 msgid "注册"
-msgstr "新規登録"
+msgstr "Registrieren"
 
 msgid "填写邮箱"
-msgstr "メールボックスを書き込んでください"
+msgstr "Email eingeben"
 
 msgid "邮箱激活"
-msgstr "メールボックスアクティブ"
+msgstr "Email aktivieren"
 
 msgid "邮件发送成功，请点击邮件中的激活链接完成后续注册步骤。"
-msgstr "メール発送成功、メールのアクティブリンクをクリックして後続登録を完成してください。"
+msgstr "Email erfolgreich gesendet, bitte das Aktivierungslink klicken und nächste Schritte vollenden"
 
 msgid "手机"
-msgstr "携帯電話"
+msgstr "Handy"
 
 msgid "邮箱注册"
-msgstr "メールボックス新規登録"
+msgstr "Mit Email registrieren"
 
 msgid "下一步"
-msgstr "次"
+msgstr "Nächst"
 
 msgid "更换手机"
-msgstr "電話番号更変"
+msgstr "Handy wechseln"
 
 msgid "也可使用以下账号简单注册快人一步"
-msgstr "以下のアカウントで簡単に登録してもいい"
+msgstr "Sie k?nnen auch mit folgendem Konto registrieren und sofort erfahren"
 
 msgid "分享到新浪微博"
-msgstr "新浪ミニブログにシェアする"
+msgstr "Bei Sina Weibo teilen"
 
 msgid "活动中心"
-msgstr "活動センター"
+msgstr "das Bewegung-Zentrum"
 
 msgid "新闻中心"
-msgstr "ニュースセンター"
+msgstr "das Nachricht-Zentrum"
 
 msgid "全部活动"
-msgstr "全部の活動"
+msgstr "Alle Bewegungen"
 
 msgid "未开始的活动"
-msgstr "始まっていない活動"
+msgstr "die nicht angefangende Bewegung"
 
 msgid "进行中的活动"
-msgstr "行っている活動"
+msgstr "die ausführende Bewegung"
 
 msgid "已结束的活动"
-msgstr "終わった活動"
+msgstr "die beendede Bewegung"
 
 msgid "加载中,请稍候..."
-msgstr "ロード中で、しばらく待ってください..."
+msgstr "Ladend"
 
 msgid "中移动物联网开放平台还能做什么？"
-msgstr "中国移動モノのインターネットオープンプラットフォームは何ができるか？"
+msgstr "Was kann das Internet der Dinge von China Mobile noch machen"
 
 msgid "赞"
-msgstr "いいね"
+msgstr "Gefällt mir"
 
 msgid "案例信息"
-msgstr "実例情報"
+msgstr "Informationen über Fälle"
 
 msgid "作者主页"
-msgstr "作者のホームページ"
+msgstr "Homepage des Autors"
 
 msgid "案例"
-msgstr "導入事例"
+msgstr "Fallbeispiel"
 
 msgid "成功案例"
-msgstr "導入事例"
+msgstr "Erfolgreiches Fallbeispiel"
 
 msgid "案例作者"
-msgstr "実例作者"
+msgstr "Autor des Falls"
 
 msgid "WiFi芯片模组"
-msgstr "WiFiチップモジュール"
+msgstr "WIFI Chip Modul"
 
 msgid "关闭"
-msgstr "クローズ"
+msgstr "Schließen"
 
 msgid "中国移动物联网开放平台"
-msgstr "中国移動モノのインターネットオープンプラットフォーム"
+msgstr "Offene Plattform für Internet der Dinge von China Mobile"
 
 msgid "智能硬件"
-msgstr "知能ハードウエア"
+msgstr "Intelligente Hardware"
 
 msgid "开发者"
-msgstr "開発者に関する"
+msgstr "Entwickler"
 
 msgid "设备接入"
-msgstr "デバイスアクセス"
+msgstr "Geräte verbinden"
 
 msgid "抱歉，您访问的页面出错了"
-msgstr "すみません、ページは間違った"
+msgstr "Sorry, Sie besuchen die falsche Seite"
 
 msgid "返回首页"
-msgstr "ホームページに戻る"
+msgstr "Zurück zur Startseite"
 
 msgid "我们是谁"
-msgstr "LOTについて"
+msgstr "Wer sind wir"
 
 msgid "体验产品"
-msgstr "オンラインテスト"
+msgstr "Produkte für Erfahrende"
 
 msgid "加入我们"
-msgstr "採用情報"
+msgstr "Teilnahme"
 
 msgid "快速接入设备"
-msgstr "高速アクセスデバイス"
+msgstr "Gerät schnell verbinden"
 
 msgid "API文档"
-msgstr "APIファイル"
+msgstr "API Datei"
 
 msgid "接入文档"
-msgstr "アクセスファイル"
+msgstr "Datei verbinden"
 
 msgid "调试工具"
-msgstr "デバッグツール"
+msgstr "Debugging des Werkzeugs"
 
 msgid "友情链接"
-msgstr "関連リンク"
+msgstr "Freundschaftliche Links"
 
 msgid "中移物联网"
-msgstr "中国移動loT"
+msgstr "Internet der Dinge von China Mobile"
 
 msgid "物联网专网"
-msgstr "loT専用ネット"
+msgstr "Fachnetz des Internets der Dinge"
 
 msgid "arduino中文社区"
-msgstr "arduino中国語BBS"
+msgstr "arduino Chinesisches Community"
 
 msgid "物联网业务管理平台"
-msgstr "モノのインターネット業務管理プラットフォーム"
+msgstr "Verwaltungsplattform für Geschäfte des Internets der Dinge"
 
 msgid "可穿戴设备"
-msgstr "ウェアラブルデバイス"
+msgstr "Tragbare Geräte"
 
 msgid "APP下载"
-msgstr " APPダウンロード"
+msgstr "APP herunterladen"
 
 msgid "联系方式"
-msgstr "連絡先"
+msgstr "Kontaktweise"
 
 msgid "QQ交流群"
-msgstr "QQ交流グループ"
+msgstr "QQ Chatgruppe"
 
 msgid "版权所有"
-msgstr "著作権所有"
+msgstr "Copyright"
 
 msgid "首页"
-msgstr "ホーム"
+msgstr "Startseite"
 
 msgid "退出登录"
-msgstr "ログアウト"
+msgstr "Abmelden"
 
 msgid "设置"
-msgstr "設定"
+msgstr "Einstellung"
 
 msgid "我的收藏"
-msgstr "お気に入り"
+msgstr "Meine Favoriten"
 
 msgid "发现"
-msgstr "IoTの活用"
+msgstr "Entdecken"
 
 msgid "体验"
-msgstr "オンラインテスト"
+msgstr "Erleben"
 
 msgid "开发者中心"
-msgstr "開発者センター"
+msgstr "Entwicklerszentrum"
 
 msgid "动态"
-msgstr "イベント"
+msgstr "die Tendenz"
 
 msgid "社区"
 msgstr "BBS"
 
 msgid "扫一扫，看看会发生什么？"
-msgstr " スキャンして、何が発生するか？"
+msgstr "Scannen und sehen, was passieren wird"
 
 msgid "智能手机已接入中移物联网开放平台"
-msgstr "スマートフォンはすでに中国移動モノのインターネットオープンプラットフォームにアクセスしました"
+msgstr "Was passiert"
 
 msgid "看看发生了什么"
-msgstr "何が発生したの？"
+msgstr "Was passiert"
 
 msgid "您的手机旋转状态"
-msgstr "携帯の回転状態"
+msgstr "Drehzustand Ihres Handys"
 
 msgid "试着旋转您的手机，受不同网络环境影响，请旋转一个角度后稍作等待"
-msgstr "携帯を回転して試みてください、異なるネットワーク環境の影響のために、回転した後で少し待ってください"
+msgstr "Versuchen Sie Ihr Handy zu drehen. Wegen des Einflusses verschiedener Netzwerkumgebungen bitten warten Sie kurze Zeit nach eines Drehwinkels."
 
 msgid "很抱歉，由于权限问题，暂时无法获取您手机的旋转状态，您可以换个手机试试"
-msgstr "すみません、権限の問題で、しばらくこの携帯の回転状態を得ることができません、別の携帯で試みてください"
+msgstr "Entschuldigung, aufgrund eines Berechtigungsproblems kann der Drehzustand ihres Handys zeitweise nicht empfunden werden. Versuchen Sie mit anderem Handy"
 
 msgid "您的浏览器不支持查看旋转状态，请使用IE10以上版本浏览器或谷歌、火狐浏览器"
-msgstr "このブラウザーは回転状態を調べることを支持しません、IE10版以上のブラウザーあるいはGoogle、 ファイヤーフォックスを使ってください"
+msgstr "Bitte verwenden Sie IE - Browser über Version IE 10 oder Google und Firefox"
 
 msgid "手机摇晃程度"
-msgstr "携帯の揺れる程度"
+msgstr "Schüttelngrad"
 
 msgid "摇晃您的手机，我们可以感受到它的摇晃剧烈程度"
-msgstr "携帯を揺れて、その揺れる程度を感じることができます"
+msgstr "Schütteln Sie Ihr Handy, dann können wir den Schüttelngrad verspüren."
 
 msgid "非常抱歉"
-msgstr "申し訳ございません"
+msgstr "Entschuldigung"
 
 msgid "暂时不支持您的手机机型"
-msgstr "しばらくこの携帯電話の型を支持しません"
+msgstr "Ihr Handy-Modell ist zurzeit nicht unterstützt."
 
 msgid "页面将在"
-msgstr "このページは"
+msgstr "Die Seite wird"
 
 msgid "直接看看中移物联网开放平台能做什么"
-msgstr "中国移動モノのインターネットオープンプラットフォームは何ができますか"
+msgstr "Was kann man auf der offenen Plattform von China Mobile machen?"
 
 msgid "正在体验，剩余时间"
-msgstr "体験中で、余剰の時間"
+msgstr "Erleben , die verbleibene Zeit"
 
 msgid "扫码注册"
-msgstr "バーコードを読み取って登録します"
+msgstr "QR-Code scannen und registieren"
 
 msgid "扫一扫，立马注册"
-msgstr "スマフォをかざすと、新規登録できます"
+msgstr "Scannen und sofort registieren"
 
 msgid "获取验证码"
-msgstr "確認コードを得ます"
+msgstr "Bestätigungscode bekommen"
 
 msgid "触发器管理"
-msgstr "トリガー管理"
+msgstr "Auslöserverwaltung"
 
 msgid "新增触发器"
-msgstr "新規追加トリガー"
+msgstr "Neuen Auslöser hinzufügen"
 
 msgid "全部设备"
-msgstr "全部の設備"
+msgstr "Alle Geräte"
 
 msgid "触发器名称"
-msgstr "トリガー名称 "
+msgstr "Name des Auslösers"
 
 msgid "控制范围"
-msgstr "管理限界線 "
+msgstr "Kontrollbereich"
 
 msgid "数据流名称"
-msgstr "データフロー名称"
+msgstr "Name des Datenflusses"
 
 msgid "触发条件"
-msgstr "トリガ条件"
+msgstr "Bedingung zur Auslösung"
 
 msgid "选中数据流值"
-msgstr "データフロー値を選ぶ"
+msgstr "Datenflusswert auswählen"
 
 msgid "URL地址"
-msgstr "URLアドレス"
+msgstr "URL Adresse"
 
 msgid "下发命令"
-msgstr "命令を出す"
+msgstr "Befehl senden"
 
 msgid "设备ID"
-msgstr "デバイスID"
+msgstr "Gerät-ID"
 
 msgid "{%$isNew%}"
 msgstr "{%$isNew%}"
 
 msgid "取消"
-msgstr "キャンセル"
+msgstr "Abbrechen"
 
 msgid "接入"
-msgstr "アクセス"
+msgstr "Zugriff"
 
 msgid "最近更新"
-msgstr "更新情報"
+msgstr "Kürzliche Aktualisierung"
 
 msgid "轻松接入中国移动物联网开放平台"
-msgstr "気楽に中国移動モノのインターネットオープンプラットフォームにアクセスできる"
+msgstr "Leicht mit der Offenen Plattform für Internet der Dinge von China Mobile verbinden"
 
 msgid "查看接入帮助文档"
-msgstr "登録ページに入る"
+msgstr "Hilfe-Datei lesen"
 
 msgid "进入登录注册页面"
-msgstr "新規プロジェクトページに入る"
+msgstr "Registrierungsseite eintreten"
 
 msgid "登录注册"
-msgstr "登録と新規登録"
+msgstr "Registrieren und anmelden"
 
 msgid "进入新建项目页面"
-msgstr "新規プロジェクトページに入る"
+msgstr "Seite der neu erstellten Projekten eintreten"
 
 msgid "新建项目"
-msgstr "新規追加プロジェクト"
+msgstr "Neues Projekt"
 
 msgid "进入新增设备页面"
-msgstr "新規追加デバイスページに入る"
+msgstr "Seite der neu hinzugefügten Geräten eintreten"
 
 msgid "新增设备"
-msgstr "新規追加デバイス"
+msgstr "Neue Geräte"
 
 msgid "访问新增数据流文档"
-msgstr "追加データファイルをアクセスする"
+msgstr "Neu erstellten Datenflussdatei besuchen"
 
 msgid "新增数据流"
-msgstr "追加データフロー"
+msgstr "Neuer Datenfluss"
 
 msgid "访问查看数据文档"
-msgstr "データファイルをアクセスする"
+msgstr "Datendatei besuchen und lesen"
 
 msgid "查看数据"
-msgstr "データをチェックする"
+msgstr "Daten sehen"
 
 msgid "访问新建应用文档"
-msgstr "追加アプリケーションファイルをアクセスする"
+msgstr "Datei der neu erstellten Anwendungen besuchen"
 
 msgid "新建应用"
-msgstr "新規追加アプリケーション"
+msgstr "Anwendung erstellen"
 
 msgid "文档更新"
-msgstr "ファイル更新"
+msgstr "Datei aktualisieren"
 
 msgid "资源下载"
-msgstr "資源ダウンロード"
+msgstr "Ressourcen herunterladen"
 
 msgid "如果您在接入中移物联网开放平台过程中遇到问题或者有疑问、建议等，欢迎联系我们"
-msgstr "中国移動モノのインターネットオープンプラットフォームに入る時何が問題、提案があったら、私達と連絡してください"
+msgstr "Wenn Sie Probleme, Fragen oder Vorschläge über die Verbindung mit der Offenen Plattform für Internet der Dinge von China Mobile hätten, bitte uns kontaktieren"
 
 msgid "去论坛看看"
-msgstr "フォーラムに入って見る"
+msgstr "Forum besuchen"
 
 msgid "开发案例"
-msgstr "開発実例"
+msgstr "Fallbeispiel"
 
 msgid "社区动态"
-msgstr "フォーラム情報"
+msgstr "Neuheit von BBS "
 
 msgid "创客风采"
-msgstr "製作者の風采"
+msgstr "Macker kennenlernen"
 
 msgid "APIKey管理"
-msgstr "APIKey管理"
+msgstr "APIKey Verwaltung"
 
 msgid "新建APIKey"
-msgstr "APIKey作成"
+msgstr "APIKey neu errichten"
 
 msgid "APIKey名称"
-msgstr " APIKey名称"
+msgstr "APIKey-Name"
 
 msgid "关联设备"
-msgstr "関連デバイス"
+msgstr "Bezogene Geräte"
 
 msgid "添加APIKey"
-msgstr "APIKey添加"
+msgstr "APIKey hinzufügen"
 
 msgid "搜索APIKey"
-msgstr "APIKey検索"
+msgstr "APIKey suchen"
 
 msgid "默认APIKey"
-msgstr "APIKey黙認する"
+msgstr "Standard-APIKey"
 
 msgid "默认关联本项目所有设备"
-msgstr "すべての関連デバイスを黙認する"
+msgstr "Alle standarde bezogene Geräte zu diesem Projekt"
 
 msgid "删除"
-msgstr "削除"
+msgstr "Löschen"
 
 msgid "编辑"
-msgstr "編集"
+msgstr "Bearbeiten"
 
 msgid "添加关联设备"
-msgstr "関連デバイスを添加する"
+msgstr "Bezogene Geräte hinzufügen"
 
 msgid "显示全部"
-msgstr "全部表示"
+msgstr "Alles anzeigen"
 
 msgid "全选"
-msgstr "全選"
+msgstr "Alles wählen"
 
 msgid "清除"
-msgstr "削除"
+msgstr "Löschen"
 
 msgid "确认添加"
-msgstr "添加確認"
+msgstr "Hinzufügung bestätigen"
 
 msgid "文档"
-msgstr "ファイル"
+msgstr "Datei"
 
 msgid "下载开发文档"
-msgstr "開発ファイルをダウンロードする"
+msgstr "Entwicklungsdatei herunterladen"
 
 msgid "开发文档"
-msgstr "開発ファイル"
+msgstr "Datei entwickeln"
+
+msgid "创建者"
+msgstr "Erfinder"
 
 msgid "创建时间"
-msgstr "創建時間"
+msgstr "Zeit erstellen"
 
 msgid "发布链接"
-msgstr "リンク発表"
+msgstr "Links ausgeben"
 
 msgid "无"
-msgstr "ない"
+msgstr "Kein"
 
 msgid "在您的网站上嵌入此应用"
-msgstr "ウェブサイトでこのアプリケーションを組み込む"
+msgstr "Diese Anwendung auf Ihrer Webseite einbetten"
 
 msgid "私有应用无法嵌入三方网站"
-msgstr "私有アプリケーションは三方ウェブサイトを組み込むことができない"
+msgstr "Private Anwendung darf nicht auf anderer Webseite eingebetttet werden"
 
 msgid "嵌入"
-msgstr "組み込む"
+msgstr "Einbetten"
 
 msgid "收藏"
-msgstr "コレク"
+msgstr "Favorisieren"
 
 msgid "全屏查看应用"
-msgstr "フルスクリーン"
+msgstr "Vollbildschirm anzeigen"
 
 msgid "用户评价"
-msgstr "ユーザー評価"
+msgstr "Kundenbewertung"
 
 msgid "发表评论"
-msgstr "評論発表"
+msgstr "Kommentar"
 
 msgid "热门应用"
-msgstr "人気アプリケーション"
+msgstr "Beliebte Anwendung"
 
 msgid "回复"
-msgstr "返答"
+msgstr "Antwort"
 
 msgid "应用编辑器"
-msgstr "アプリケーションエディター"
+msgstr "Anwendungseditor"
 
 msgid "新建"
-msgstr "生成"
+msgstr "Neu errichten"
 
 msgid "应用"
-msgstr "アプリケーション"
+msgstr "Anwendung"
 
 msgid "编辑应用"
-msgstr "アプリケーション編集"
+msgstr "Anwendung bearbeiten"
 
 msgid "完善信息"
-msgstr "情報完備"
+msgstr "Information vervollständigen"
 
 msgid "新建成功"
-msgstr "新規追加成功"
+msgstr "Neue Anwendung erfolgreich errichtet"
 
 msgid "预览"
-msgstr "プレビュー"
+msgstr "Voransicht"
 
 msgid "上一层"
-msgstr "前"
+msgstr "Rückwärts"
 
 msgid "下一层"
-msgstr "次"
+msgstr "Vorwärts"
 
 msgid "对齐到网格"
-msgstr "グリッドに方向付ける"
+msgstr "Nach dem Gradnetz ausrichten"
 
 msgid "字号"
-msgstr "サイズ"
+msgstr "Größe"
 
 msgid "加粗"
-msgstr "ボールド"
+msgstr "Fett"
 
 msgid "斜体"
-msgstr "イタリック"
+msgstr "Kursiv"
 
 msgid "下划线"
-msgstr "下線"
+msgstr "Unterstreichung"
 
 msgid "左对齐"
-msgstr "左揃え"
+msgstr "Links ausrichten"
 
 msgid "居中对齐"
-msgstr "中央揃え"
+msgstr "Zentral ausrichten"
 
 msgid "右对齐"
-msgstr "右揃え"
+msgstr "Rechts ausrichten"
 
 msgid "全屏"
-msgstr "フルスクリーン"
+msgstr "Vollbild"
 
 msgid "文字"
-msgstr "文字"
+msgstr "Wort"
 
 msgid "曲线图"
-msgstr "曲線図"
+msgstr "Kurve"
 
 msgid "柱状图"
-msgstr "ヒストグラム"
+msgstr "Histogramm"
 
 msgid "仪表盘"
-msgstr "ダッシュボード"
+msgstr "Instrumentenbrett"
 
 msgid "地图"
-msgstr "地図"
+msgstr "Landkarte"
 
 msgid "图片"
-msgstr "画像"
+msgstr "Bild"
 
 msgid "开关"
-msgstr "オン/オフ"
+msgstr "Schalter"
 
 msgid "旋钮"
-msgstr "ノッブ"
+msgstr "Drehknopf"
 
 msgid "所属项目"
-msgstr "プロジェクト"
+msgstr "Zugehöriges Projekt"
 
 msgid "应用名称"
-msgstr "アプリケーション名称"
+msgstr "Anwendungsname"
 
 msgid "应用状态"
-msgstr "アプリケーション状態"
+msgstr "Anwendungsstatus"
 
 msgid "公开应用"
-msgstr "公開アプリケーション"
+msgstr "Öffentliche Anwendungen"
 
 msgid "私有应用"
-msgstr "私有アプリケーション"
+msgstr "Private Anwendung"
 
 msgid "添加logo"
-msgstr " logo添加"
+msgstr "Logo hinzufügen"
 
 msgid "修改默认"
-msgstr "初期設定変更"
+msgstr "Standardeinstellung ändern"
 
 msgid "本地上传"
-msgstr "ローカルアップロード"
+msgstr "Lokales hochladen"
 
 msgid "应用描述"
-msgstr "アプリケーション説明"
+msgstr "Anwendungsbeschreibung"
+
+msgid "保存应用"
+msgstr "Anwendung speichern"
 
 msgid "返回"
-msgstr "戻る"
+msgstr "Zurückkehren"
 
 msgid "输入应用名称进行搜索"
-msgstr "アプリケーション名称を入力して検索する"
+msgstr "Anwendungsname eingeben und suchen"
 
 msgid "数据流"
-msgstr "データフロー"
+msgstr "Datenfluss"
 
 msgid "数据范围"
-msgstr "データ範囲"
+msgstr "Datenumfang"
 
 msgid "时间间隔"
-msgstr "時間間隔"
+msgstr "Zeitabstand"
 
 msgid "秒"
-msgstr "秒"
+msgstr "Sekunde"
 
 msgid "发送一次"
-msgstr "一回発送する"
+msgstr "Einmal senden"
 
 msgid "连续发送"
-msgstr "連続で発送する"
+msgstr "Kontinuierlich senden"
 
 msgid "发送日志"
-msgstr "日誌を発送する"
+msgstr "Protokoll senden"
 
 msgid "ApiURL地址"
-msgstr "ApiURLアドレス"
+msgstr "ApiURL-Adresse"
 
 msgid "请求方法"
-msgstr "リクエストメソッド"
+msgstr "Abfragemethode"
 
 msgid "请求参数"
-msgstr "リクエストパラメーター"
+msgstr "Abfrageparameter"
 
 msgid "添加"
-msgstr "添加"
+msgstr "Hinzufügen"
 
 msgid "请求内容"
-msgstr "リクエスト内容"
+msgstr "Abfrageinhalt"
 
 msgid "执行请求"
-msgstr "リクエストを送信する"
+msgstr "Abfrage durchführen"
 
 msgid "返回结果"
-msgstr "復帰結果"
+msgstr "Ergebnis zurückschicken"
 
 msgid "接入设备"
-msgstr "アクセスデバイス"
+msgstr "Geräte verbinden"
 
 msgid "设备名称"
-msgstr "デバイス名"
+msgstr "Gerätename"
 
 msgid "设备标签"
-msgstr "デバイスタッグ"
+msgstr "Geräteschild"
 
 msgid "每个标签请用英文逗号隔开"
-msgstr "すべてのタッグが英文の読点で仕切ってください"
+msgstr "Bitte jedes Schild mit Kommar trennen"
 
 msgid "设备描述"
-msgstr "デバイス説明"
+msgstr "Gerätebeschreibung"
 
 msgid "添加图片"
-msgstr "画像追加"
+msgstr "Bilder hinzufügen"
 
 msgid "修改图片"
-msgstr "画像更変"
+msgstr "Bild bearbeiten"
 
 msgid "接入协议"
-msgstr "アクセスプロトコル "
+msgstr "Zugriffsprotokoll"
 
 msgid "HTTP协议"
-msgstr " HTTPプロトコル"
+msgstr "HTTP Protokoll"
 
 msgid "EDP协议"
-msgstr " EDPプロトコル"
+msgstr "EDP Protokoll"
 
 msgid "鉴权信息"
-msgstr "認証情報"
+msgstr "Authentifizierungsinformation"
 
 msgid "添加鉴权信息"
-msgstr "認証情報を添加する"
+msgstr "Authentifizierungsinformation hinzufügen"
 
 msgid "参数名"
-msgstr "パラメーター名 "
+msgstr "Parametername"
 
 msgid "参数值"
-msgstr "パラメータ値"
+msgstr "Parameterwert"
 
 msgid "默认路由"
-msgstr "デフォルトルート "
+msgstr "Standardroute"
 
 msgid "默认路由值为已存在的设备ID"
-msgstr "デフォルトルート値はすでに存在したデバイスID"
+msgstr "Standardroute ist bestehende Gerät-ID"
 
 msgid "设备权限"
-msgstr "デバイス権限"
+msgstr "Gerätebefugnis"
 
 msgid "私有数据"
-msgstr "私有データ"
+msgstr "Private Daten"
 
 msgid "公开数据"
-msgstr "公開データ"
+msgstr "Öffentliche Daten"
 
 msgid "设备位置"
-msgstr "デバイス位置"
+msgstr "Geräteposition"
 
 msgid "通过输入然后选择或点击地图来确定坐标"
-msgstr "入力を通じて地図を選ぶかクリックして座標を確定する"
+msgstr "Die Koordinate durch Eingabe oder Klick auf der Landkarte bestätigen"
 
 msgid "经度"
-msgstr "経度 "
+msgstr "Längengrad"
 
 msgid "纬度"
-msgstr "緯度"
+msgstr "Breitengrad"
 
 msgid "你现在可以为你的设备上传数据"
-msgstr "今デバイスにデータをアップロードすることができる"
+msgstr "Sie können jetzt Daten für Ihr Gerät hochladen"
 
 msgid "上传数据"
-msgstr "データアップロード"
+msgstr "Daten hochladen"
 
 msgid "设备协议"
-msgstr "デバイスプロトコル"
+msgstr "Geräteprotokoll"
 
 msgid "协议"
-msgstr "プロトコル"
+msgstr "Protokoll"
 
 msgid "API地址"
-msgstr " APIアドレス"
+msgstr "API Adresse"
 
 msgid "设备APIKey"
-msgstr "デバイスAPIKey"
+msgstr "Gerät-APIKey"
 
 msgid "设备详情"
-msgstr "デバイスの詳細情報"
+msgstr "Details des Gerätes"
 
 msgid "输入设备名称进行搜索"
-msgstr "デバイス名を入力して検索する"
+msgstr "Suche durch Eingabe des Gerätenamens"
 
 msgid "批量添加设备"
-msgstr "デバイス一括添加"
+msgstr "Geräte per Batch hinzufügen"
 
 msgid "更多信息"
-msgstr "詳細情報"
+msgstr "Mehr Informationen"
 
 msgid "更多EDP设备信息"
-msgstr "EDPデバイスの詳細情報"
+msgstr "Mehr Informationen über EDP Geräte"
 
 msgid "数据点总数"
-msgstr "データポイント総計"
+msgstr "Gesamtzahl der Datenpunkte"
 
 msgid "昨日新增数据点"
-msgstr "昨日の新規追加データポイント"
+msgstr "Gestrige neue Datenpunkte "
 
 msgid "http协议日志"
-msgstr "httpプロトコルログ"
+msgstr "HTTP Protokoll"
 
 msgid "查看所有"
-msgstr "全部をチェックする"
+msgstr "Alles sehen"
 
 msgid "数据展示"
-msgstr "データ展示"
+msgstr "Datendarstellung"
 
 msgid "添加数据流"
-msgstr "データフローを添加する"
+msgstr "Datenfluss hinzufügen"
 
 msgid "数据流ID："
-msgstr "データフローID："
+msgstr "Datenfluss-ID"
 
 msgid "例如 最高温度"
-msgstr "例えば、最高温度"
+msgstr "Z.B. höchste Temperatur"
 
 msgid "单位名称"
-msgstr "単位名称"
+msgstr "Name der Einheit"
 
 msgid "例如 摄氏度"
-msgstr "例えば、摂氏温度"
+msgstr "Z.B. Grad Celsius"
 
 msgid "单位符号"
-msgstr "単位記号"
+msgstr "Symbol der Einheit"
 
 msgid "例如"
-msgstr "例えば"
+msgstr "Z.B."
 
 msgid "保存数据流"
-msgstr "データフローを保存する"
+msgstr "Datenfluss speichern"
 
 msgid "最新数据"
-msgstr "最新データ"
+msgstr "Neuster Datenfluss"
 
 msgid "更新时间"
-msgstr "更新時間"
+msgstr "Aktualisierungzeit"
 
 msgid "查询时间"
-msgstr "検索時間"
+msgstr "Zeit der Abfrage"
 
 msgid "至"
-msgstr "まで"
+msgstr "bis"
 
 msgid "查询"
-msgstr "検索"
+msgstr "Abfrage"
 
 msgid "查看最新"
-msgstr "最新内容をビューする"
+msgstr "Die Neuste sehen"
 
 msgid "上一页"
-msgstr "前ページ"
+msgstr "Rückwärts"
 
 msgid "下一页"
-msgstr "次ページ"
+msgstr "Vorwärts"
 
 msgid "最近一小时内无数据更新"
-msgstr "最近1時間以内でデータがない"
+msgstr "Keine Aktualisierung in der letzten Stunde"
 
 msgid "确认模版"
-msgstr "テンプレート確認"
+msgstr "Vorlage bestätigen"
 
 msgid "批量创建"
-msgstr "一括創建"
+msgstr "Per Batch errichten"
 
 msgid "创建成功"
-msgstr "創建成功"
+msgstr "Erfolgreich errichtet"
 
 msgid "模版信息"
-msgstr "テンプレート情報"
+msgstr "Information über Vorlage"
 
 msgid "批量添加的设备将继承模板设备的基本属性"
-msgstr "一括添加したデバイスはテンプレートデバイスの基本的な属性を延べる"
+msgstr "Per Batch hinzugefügte Geräte behalten die ursprüngliche Eigenschaften der Vorlage"
 
 msgid "项目名称"
-msgstr "プロジェクト名称"
+msgstr "Projektname"
 
 msgid "设备数据"
-msgstr "デバイスデータ"
+msgstr "Gerätedaten"
 
 msgid "无数据流信息"
-msgstr "データフロー情報がない"
+msgstr "Keine Information über Datenfluss"
 
 msgid "批量复制"
-msgstr "一括コピー"
+msgstr "Per Batch kopieren"
 
 msgid "导入批量设备"
-msgstr "大量デバイスを導入する"
+msgstr "Geräte per Batch einführen"
 
 msgid "选择合适的方式批量导入设备"
-msgstr "適切な方法を選んでデバイスを一括導入する"
+msgstr "Geeignete Weise zur Einführung der Geräte per Batch wählen"
 
 msgid "快速创建"
-msgstr "高速に創建する"
+msgstr "Schnell erstellen"
 
 msgid "手动写入"
-msgstr "手動で書いて入る"
+msgstr "Manuell eingeben"
 
 msgid "excel导入"
-msgstr "excelインポート"
+msgstr "Excel einführen"
 
 msgid "设备数量"
-msgstr "デバイスの数量"
+msgstr "Anzahl der Geräte"
 
 msgid "个"
-msgstr " 個"
+msgstr "Stücke"
 
 msgid "请填写“设备名称”属性，每行表示一个设备，通过回车符换行增加"
-msgstr "「デバイス名」の属性を書き込んでください、一行ごとに１つのデバイスを表します、 ENTERボタンを通じて改行増加する"
+msgstr "Bitte die Eigenschaft “Gerätename” eingeben, jede Zeile bedeutet ein Gerät, Zeile durch Enter-Taste hinzufügen"
 
 msgid "确认批量导入"
-msgstr "一括導入を確認する"
+msgstr "Einführung per Batch bestätigen"
 
 msgid "上传列表"
-msgstr "リストアップロード "
+msgstr "Tabelle hochladen"
 
 msgid "点击上传"
-msgstr "クリックしてアップロードする"
+msgstr "Klicken und hochladen"
 
 msgid "添加时间"
-msgstr "時間添加"
+msgstr "Zeit hinzufügen"
 
 msgid "添加数量"
-msgstr "数量添加"
+msgstr "Zahl vermehren"
 
 msgid "导出列表"
-msgstr "リスト導出"
+msgstr "Tabelle ausführen"
 
 msgid "其他"
-msgstr "その他"
+msgstr "Andere"
 
 msgid "查看更多"
-msgstr "詳細情報"
+msgstr "Mehr sehen"
 
 msgid "项目列表"
-msgstr "プロジェクトリスト"
+msgstr "Projektliste"
 
 msgid "新建设备"
-msgstr "新しいデバイス"
+msgstr "Neues Gerät erstellen"
 
 msgid "还没有设备批量模版"
-msgstr "まだデバイスバッチテンプレートがない"
+msgstr "Noch keine Batch Vorlage für Geräte "
 
 msgid "查看批量记录"
-msgstr "バッチ記録をチェックする"
+msgstr "Batch-Rekord sehen"
 
 msgid "支持协议"
-msgstr "対応プロトコル"
+msgstr "Unterstützung-Protokoll"
 
 msgid "接入帮助文档"
-msgstr "ヘルプファイルにアクセスします"
+msgstr "Zugang zur Hilfsdatei"
 
 msgid "工具"
-msgstr "ツール"
+msgstr "Werkzeug"
 
 msgid "项目"
-msgstr "プロジェクト"
+msgstr "Projekt"
 
 msgid "设备管理"
-msgstr "デバイス管理"
+msgstr "Geräteverwaltung"
 
 msgid "项目概况"
-msgstr "プロジェクト概況"
+msgstr "Projektübersicht"
 
 msgid "地图数据模拟器"
-msgstr "地図データ模擬器"
+msgstr "Datensimulator der Landkarte"
 
 msgid "数据模拟器"
-msgstr "データシミュレータ"
+msgstr "Datensimulator"
 
 msgid "API调试工具"
-msgstr "APIデバッグツール"
+msgstr "API Debuggingwerkzeug"
 
 msgid "修改项目"
-msgstr "プロジェクト改正"
+msgstr "Projekt ändern"
 
 msgid "项目描述"
-msgstr "プロジェクト説明"
+msgstr "Projektbeschreibung"
 
 msgid "立即创建项目"
-msgstr "直ちにプロジェクトを創建する"
+msgstr "Projekt gleich erstellen"
 
 msgid "立即修改项目"
-msgstr "直ちにプロジェクトを改正する"
+msgstr "Projekt gleich ändern"
 
 msgid "为你的项目添加一个设备"
-msgstr "プロジェクトにデバイスを添加する"
+msgstr "Ein neues Gerät für Ihr Projekt hinzufügen"
 
 msgid "去项目详情首页"
-msgstr "プロジェクトの詳細ページへ"
+msgstr "Startseite des Projektdetails besuchen"
 
 msgid "项目基本信息"
-msgstr "プロジェクトの基本情報"
+msgstr "Grundinformation des Projekts"
 
 msgid "项目ID"
-msgstr "プロジェクトID"
+msgstr "Projekt ID"
 
 msgid "各项数据统计"
-msgstr "各データ統計"
+msgstr "Datenstatistik"
 
 msgid "台"
-msgstr " 台"
+msgstr "Geräte"
 
 msgid "应用总数"
-msgstr "アプリケーション総計"
+msgstr "Gesamtzahl der Anwendung"
 
 msgid "APIKey数"
-msgstr "APIKey数"
+msgstr "Anzahl von APIKey"
 
 msgid "触发器数"
-msgstr "トリガー数"
+msgstr "Anzahl des Auslösers"
 
 msgid "数据点新增概览"
-msgstr "新規追加データポイント一覧"
+msgstr "Überblick über neue Datenpunkte"
 
 msgid "每日新增数据点数"
-msgstr "毎日新規追加データ数"
+msgstr "Anzahl täglicher neuer Datenpunkte"
 
 msgid "截止到今日凌晨零点"
-msgstr "今日夜明け方0時まで締め切る"
+msgstr "Bis zur 00.00 Uhr von Heute"
 
 msgid "暂无数据！上传后，次日即可查阅"
-msgstr "データがない！アップロードした後に、翌日調べることができる"
+msgstr "Keine Daten! Am nächsten Tag können Sie die hochgeladenen Daten nachsehen"
 
 msgid "昨日触发信息数"
-msgstr "昨日のトリガメッセージ数"
+msgstr "Anzahl der gestrigen ausgelösten Daten "
 
 msgid "昨日触发信息总数"
-msgstr "昨日トリガメッセージ数総計"
+msgstr "Gesamtzahl der gestrigen ausgelösten Daten"
 
 msgid "条"
-msgstr "本 "
+msgstr "Streifen"
 
 msgid "昨日触发失败数"
-msgstr "昨日トリガ失敗"
+msgstr "Anzahl der fehl ausgelösten Daten von gestern"
 
 msgid "下载"
-msgstr "ダウンロード"
+msgstr "Herunterladen"
 
 msgid "SDK下载"
-msgstr "SDKダウンロード"
+msgstr "SDK herunterladen"
 
 msgid "APP客户端下载"
-msgstr "APPダウンロード"
+msgstr "APP herunterladen"
 
 msgid "新建触发器"
-msgstr "トリガー新規追加"
+msgstr "Auslöser neu errichten"
 
 msgid "搜索触发器"
-msgstr "トリガー検索"
+msgstr "Auslöser suchen"
 
 msgid "名称"
-msgstr "名称"
+msgstr "Name"
 
 msgid "设备范围"
-msgstr "デバイス範囲"
+msgstr "Geräteumfang"
 
 msgid "功能更新"
-msgstr "機能の更新"
+msgstr "Funktionsaktualisierung"
 
 msgid "快速访问更新功能"
-msgstr "急速に更新機能をアクセスします"
+msgstr "Schneller Zugang zur Aktualsierungsfunktion"
 
 msgid "功能更新详情"
-msgstr "機能の更新情況"
+msgstr "Aktualisierungsdetails der Funktionen"
 
 msgid "查看更新列表"
-msgstr "更新リストをチェックします"
+msgstr "Aktualisierte Liste sehen"
 
 msgid "推荐应用"
-msgstr "おすすめ"
+msgstr "Empfohlene Anwendung"
 
 msgid "活跃应用"
-msgstr "人気アプリ"
+msgstr "Aktive Anwendung"
 
 msgid "最新应用"
-msgstr "新着アプリ"
+msgstr "Neueste Anwendung"
 
 msgid "无相关数据"
-msgstr "関連データがない"
+msgstr "Keine bezogene Daten"
 
 msgid "最新设备"
-msgstr "最新デバイス"
+msgstr "Neueste Geräte"
 
 msgid "活跃设备"
-msgstr "ポピュラーデバイス"
+msgstr "Aktive Geräte"
 
 msgid "加载中，请稍候"
-msgstr "ロード中で、しばらく待ってください"
+msgstr "Laden jetzt, bitte Moment"
 
 msgid "热门设备"
-msgstr "人気デバイス"
+msgstr "Beliebte Geräte"
 
 msgid "发现应用"
-msgstr "アプリケーション発見"
+msgstr "Anwendungen entdecken"
 
 msgid "查看所有应用"
-msgstr "すべてのアプリこちら"
+msgstr "Alle Anwendungen sehen"
 
 msgid "探索设备"
-msgstr "デバイスサーチ"
+msgstr "Geräte forschen"
 
 msgid "查看所有设备"
-msgstr "すべてのデバイス"
+msgstr "Alle Geräte sehen"
 
 msgid "活跃用户"
-msgstr "Active users"
+msgstr "Aktive Benutzer"
 
 msgid "将您的设备接入中国移动物联网开放平台"
-msgstr "デバイスを中国移動モノのインターネットオープンプラットフォームにアクセスする"
+msgstr "Verbinden Sie Ihre Geräte mit der Offenen Plattform für Interne der Dinge von China Mobile"
 
 msgid "查看接入引导"
-msgstr "アクセス案内をチェックする"
+msgstr "Einleitung über Zugriff sehen"
 
 msgid "用户头像"
-msgstr "ユーザアイコン"
+msgstr "Benutzerbild"
 
 msgid "公开设备"
-msgstr "公開デバイス"
+msgstr "Öffentliche Geräte"
 
 msgid "设备收藏"
-msgstr "デバイスコレクション"
+msgstr "Geräte-Favorite"
 
 msgid "应用收藏"
-msgstr "アプリケーションコレクション"
+msgstr "Anwendung-Favorite"
 
 msgid "包含设备"
-msgstr "デバイスを含む"
+msgstr "Enthaltende Geräte"
 
 msgid "手机扫一扫，体验中移物联网开放平台的神奇"
-msgstr "携帯電話でスキャンして、中国移動モノのインターネットオープンプラットフォーム不思議を体験する"
+msgstr "Mit Ihrer Handy scannen und die wundervolle Offene Plattform für Internet der Dinge von China Mobile erleben"
 
 msgid "泛连接"
-msgstr "パンコネクティング"
+msgstr "Breite Verbindungen"
 
 msgid "开放平台，从连接开始"
-msgstr "オープンプラットフォーム、コネクトからスタート"
+msgstr "Offene Plattform startet von der Verbindung"
 
 msgid "中移物联网开放平台支持多种网络接入协议，轻松接入各种物体、智能家居、汽车、穿戴设备、行业终端"
-msgstr "中国移動モノのインターネットオープンプラットフォームは多種のネットワークアクセスプロトコルを支持し、気楽に各種の物体、インテリジェントホーム、自動車、ウェアラブルデバイス、業界端末に接続できる"
+msgstr "Offene Plattform für Internet der Dinge von China Mobile untertützt vielfältige Zugriffsprotokolle des Netzwerks, verbindet leicht mit den Terminals für verschiedene Dinge, intelligene Möbel, Fahrzeuge, tragbare Geräte und Industrien "
 
 msgid "专注物联网PaaS云服务，满足原型开发、产品商用和运营管理"
-msgstr "モノのインターネットPaaSクラウドサービズにに専念して、原型開発、製品商用と運営管理を満足する"
+msgstr "Auf PaaS Cloud Dienstleistung im Internet der Dinge konzentrieren, Prototypentwicklung, Produkteanwendung und Betriebsverwaltung verwirklichen"
 
 msgid "借助中移物联网开放平台提供的轻应用业务孵化平台，5分钟即可搭建并分发您的快平台应用"
-msgstr "中国移動モノのインターネットオープンプラットフォームが提供したライトアプリケーション業務孵化プラットフォームに基づいて、5分でプラットフォームアプリケーションを作って放出できる"
+msgstr "Mit dem Inkubator für leichtgewichte Anwendungen können Sie Ihre Plattformanwendung in 5 Minuten errichten "
 
 msgid "中移物联网开放平台提供海量大数据分析引擎，助您从海量数据中遇见未来"
-msgstr "中国移動モノのインターネットオープンプラットフォームは雅量のビッグデータ分析エンジンを提供して、雅量のデータから未来に出会うように助ける"
+msgstr "Offene Plattform für Internet der Dinge von China Mobile liefert viele Datenanalysemaschinen und hilft Ihnen, die Zukunft zu entdecken"
 
 msgid "您可以直接联系我们进行合作，物联网平台值得你信赖；您也可以尝试接入设备，体验平台无穷魅力"
-msgstr "直接に私達に連絡して協力することができる、これははあなたの信頼できるモノのインターネットプラットフォームです；デバイスにアクセスして、プラットフォームの尽きることがない魅力“を体験すろことができる"
+msgstr "Sie können mit uns direkt kontaktieren und kooperieren, die Plattform ist glaubenswürdig; Sie können auch die Verbindung des Gerätes versuchen und die Zauber der Plattform erleben"
 
 msgid "更多案例"
-msgstr "もっと多い実例"
+msgstr "Mehr Fälle"
 
 msgid "更多新闻"
-msgstr "もっと多いニュース"
+msgstr "mehr"
 
 msgid "新闻作者"
-msgstr "ニュース作者"
+msgstr "News Analysis"
 
 msgid "英文"
-msgstr "英語"
+msgstr "Englisch"
 
 msgid "看看我们做了什么"
-msgstr "私達は何をしたか"
+msgstr "Was haben wir gemacht"
 
 msgid "来解析下整个过程"
-msgstr "全過程解析"
+msgstr "Das ganze Prozess analysieren"
 
 msgid "第1步：在中移物联网开放平台中为您的手机建立了唯一标识 -- 设备ID，以及控制设备的API-KEY；"
-msgstr "第1歩：中国移動モノのインターネットオープンプラットフォームはあなたの携帯電話に唯一のマーク――デバイスID、及びデバイスをコントロールするAPI―KEYを設立した；"
+msgstr "Schritt 1: Die einzige Markierung für Ihre Handy auf der Plattform erzeugen—Gerät ID sowie API-KEY des Kontrollgerätes"
 
 msgid "第2步：在平台设备管理中为设备增加了5条数据流，展现设备上传数据；"
-msgstr "第2歩：プラットフォームデバイス管理でデバイスに5本のデータフローを増加して、アップロードデータを示す；"
+msgstr "Schritt 2: 5 Datenflüsse werden in der Geräteverwaltung ergänzt, um die hochgeladenen Daten anzuzeigen"
 
 msgid "第3步：利用Web技术模拟了一个手机APP获取手机传感器信息，并利用平台提供的API上传信息；"
-msgstr "第3歩：Web技術を利用して携帯電話APPを模倣して携帯電話センサー情報を得た、そしてプラットフォームが提供したAPIを利用して情報をアップロードした； "
+msgstr "Schritt 3: Handy App durch Web-Technologie simulieren und die Information des Sensors erhalten, dann die erhaltende Information durch API auf der Plattform hochladen"
 
 msgid "第4步：同样是利用平台提供的API，我们读取设备数据，根据业务需求，展现了这些数据。"
-msgstr "第4歩：同様にプラットフォームが提供したAPIを利用して、デバイスデータを読み取り、業務需要によって、これらのデータを示した。"
+msgstr "Schritt 4: Wir lesen Gerätedaten durch API, und zeigen diese Daten nach Ihrem Bedarf"
 
 msgid "该方式还可以运用到实际生活中"
-msgstr "この方法は実際の生活で運用することができる"
+msgstr "Diese Weise funktioniert auch im täglichen Leben "
 
 msgid "精密仪器的物流追踪将手机置换为物流包裹，则"
-msgstr "精密機械の物流追跡は携帯電話を物流小包に入れ替えると"
+msgstr "Um die Präzisionsinstrumente zu verfolgen, kann Ihre Handy als Päckchen umgewandelt werden"
 
 msgid "陀螺仪可记录物品的摆放情况；"
-msgstr "ジャイロスコープは物品の安置情況を記録することができる；"
+msgstr "Kreiselgerät kann den Stand der Lagerung des Gegenstands aufzeichen"
 
 msgid "晃动情况可记录物品是否受到大的冲击；"
-msgstr "揺れる様子は物品が大きい衝撃を受けるかどうかを記録することができる；"
+msgstr "Schütteln zeigt ob der Gegenstand große Erschütterung erhält"
 
 msgid "GPS可实时定位物品的地理位置。"
-msgstr "GPSはリアルタイムで物品の位置を測定することができる。"
+msgstr "GPS positioniert die Echtzeit-Position des Gegenstands"
 
 msgid "物联网平台还能做什么"
-msgstr "モノのインターネットプラットフォームは何ができるか"
+msgstr "Was kann die Plattform machen"
 
 msgid "想要详细了解中移物联网开放平台，你可以"
-msgstr "中国移動モノのインターネットオープンプラットフォームの詳細情報を了解したいたら、ができる "
+msgstr "Wenn Sie die Offene Plattform für Internet der Dinge von China Mobile mehr wissen, Sie können"
 
 msgid "新增设备试试"
-msgstr "新しデバイスを増加して試みてください"
+msgstr "Versuchen neues Gerät zu errichten"
 
 msgid "地理位置"
-msgstr "地理位置"
+msgstr "Standort"
 
 msgid "我们将采集您智能手机的陀螺仪信息和GPS定位信息，您可以通过摇晃手机和页面视图产生好玩的互动"
-msgstr "私達はあなたのスマートフォンのジャイロスコープ情報とGPS位置設定情報を採集します、あなたはスマートフォンを揺れることとページビューを通じて、面白いインタラクティブが発生することができる"
+msgstr "Wir werden die Informationen über Kreiselgerät und GSP-Positionierung auf Ihrer Handy sammeln, Sie können die Handy schütteln und mit dem Seiteninhalt interagieren."
 
 msgid "本体验绝不涉及隐私问题，请放心尝试。"
-msgstr "当体験は決してプライバシー問題に及ばない、安心して試みてください。"
+msgstr "Diese Aktivität bezieht nicht auf private Probleme, bitte keine Sorge haben"
 
 msgid "没带手机，直接去看体验说明"
-msgstr "携帯電話を持っていない？直接に体験説明を見る"
+msgstr "Ohne Handy können Sie auch die Erläuterung direkt lesen"
 
 msgid "电话和邮箱至少填一项"
 msgstr ""
@@ -1926,9 +1932,6 @@ msgstr ""
 msgid "对外展示项目"
 msgstr ""
 
-msgid "创建者"
-msgstr ""
-
 msgid "当前设备"
 msgstr ""
 
@@ -1960,9 +1963,6 @@ msgid "应用链接"
 msgstr ""
 
 msgid "修改logo"
-msgstr ""
-
-msgid "保存应用"
 msgstr ""
 
 msgid "应用列表"
